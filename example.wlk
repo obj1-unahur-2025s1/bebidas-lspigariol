@@ -1,3 +1,3 @@
 object pepita {
- method volar() = 5
+ method volar() = 50
 }
